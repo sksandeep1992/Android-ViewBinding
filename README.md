@@ -2,7 +2,7 @@
 
 In this project we define viewBinding and how to use viewBinding with example in activity and fragments
 
-for viewBinding we first enable it then use in activity and fragments\n
+for viewBinding we first enable it then use in activity and fragments
 
 android {
     ...
