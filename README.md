@@ -7,7 +7,7 @@ for viewBinding we first enable it then use in activity and fragments
 android {
     ...
     buildFeatures {
-        viewBinding = true
+        viewBinding true
     }
 }
 
